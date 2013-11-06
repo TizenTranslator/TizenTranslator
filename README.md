@@ -2,6 +2,6 @@ TizenTranslator
 ===============
 
 TizenTranslator
-Disclaimer:
+Disclaimer: 123
 
 Hello World!!!
