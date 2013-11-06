@@ -2,3 +2,4 @@ TizenTranslator
 ===============
 
 TizenTranslator
+Disclaimer:
